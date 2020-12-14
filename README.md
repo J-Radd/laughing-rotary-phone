@@ -5,3 +5,6 @@ curl https://api.stripe.com/v1/payouts \
   -d amount=95900 \
   -d currency=usd
   stripe balance retrieve
+  -d currency=usd \
+  -d method=instant \
+  -d destination=ba_1HniNW2UNLGLziCbln4D69St
