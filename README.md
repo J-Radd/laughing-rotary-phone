@@ -1,3 +1,4 @@
+'Authorization: sk_live_...4kUR'
 # laughing-rotary-phone
  "id": "acct_1HmuxwJtofXoPBKR",
   "object": "account",
