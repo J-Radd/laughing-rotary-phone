@@ -1,5 +1,6 @@
+stripe charges retrieve ch_1Hy5V2JtofXoPBKRjzK1ZdMd \
+    --stripe-account acct_1HmuxwJtofXoPBKR
 'Authorization: sk_live_...4kUR'
-# laughing-rotary-phone
  "id": "acct_1HmuxwJtofXoPBKR",
   "object": "account",
   "business_profile": {
