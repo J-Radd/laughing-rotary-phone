@@ -3,7 +3,7 @@
 curl https://api.stripe.com/v1/payouts \
   -u sk_live_...4kUR: \
   -d amount=95900 \
-  -d currency=usd
+  -d currency=cad
   stripe balance retrieve
   -d currency=usd \
   -d method=instant \
