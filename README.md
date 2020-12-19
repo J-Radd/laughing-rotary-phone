@@ -1,3 +1,5 @@
+curl https://api.stripe.com/v1/accounts/acct_1HniFF2UNLGLziCb \
+  -u sk_live_...4kUR:
   -Authoriztion:sk_live_...4kUR
   -Authorizationpk_live_51HmuxwJtofXoPBKRkazCq3CdfvoklhROZ54cvnccTqSYLD7CPcRM0caLbIrAd3G1yopDpwZTZF0LPB3v9bMRVbKj00MSXeThif
 curl https://api.stripe.com/v1/payouts \
@@ -8,3 +10,4 @@ curl https://api.stripe.com/v1/payouts \
   -d currency=usd \
   -d method=instant \
   -d destination=ba_1HniNW2UNLGLziCbln4D69St
+
